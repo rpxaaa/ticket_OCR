@@ -1,0 +1,2370 @@
+[
+    {
+        "path": "./ticket_single/ticket_0001.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2020-08-29 20:54:00",
+            "carriage": "02",
+            "seat_num": "031",
+            "berth_type": "无",
+            "price": "91.00",
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0002.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "西安站",
+            "arrival_station": "郑州西站",
+            "datetime": "2024-06-25 17:22:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "",
+            "price": "166.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0003.png",
+        "data": {
+            "train_code": "G1835",
+            "departure_station": "民权北站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-02-26 14:08:00",
+            "carriage": "03",
+            "seat_num": "03A",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0004.png",
+        "data": {
+            "train_code": "G861",
+            "departure_station": "民权北站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-02-01 18:16:00",
+            "carriage": "03",
+            "seat_num": "11D",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0005.png",
+        "data": {
+            "train_code": "G3178",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-01-18 13:46:00",
+            "carriage": "03",
+            "seat_num": "10F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0006.png",
+        "data": {
+            "train_code": "G1856",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2021-01-16 13:03:00",
+            "carriage": "03",
+            "seat_num": "12C",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0007.png",
+        "data": {
+            "train_code": "G3297",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-08-09 18:57:00",
+            "carriage": "05",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 317.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0008.png",
+        "data": {
+            "train_code": "G3170",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2023-06-28 15:44:00",
+            "carriage": "05",
+            "seat_num": "12F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0009.png",
+        "data": {
+            "train_code": "G1820",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-12-12 11:09:00",
+            "carriage": "02",
+            "seat_num": "05下",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅琼",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0010.png",
+        "data": {
+            "train_code": "K132",
+            "departure_station": "定西站",
+            "arrival_station": "民权站",
+            "datetime": "2023-09-28 15:11:00",
+            "carriage": "15",
+            "seat_num": "105",
+            "berth_type": "无",
+            "price": 152.5,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0011.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2023-10-05 20:48:00",
+            "carriage": "03",
+            "seat_num": "052",
+            "berth_type": "无",
+            "price": "91.00",
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0012.png",
+        "data": {
+            "train_code": "G1887",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-02 10:40:00",
+            "carriage": "03车",
+            "seat_num": "11C",
+            "berth_type": "无",
+            "price": 238.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0013.png",
+        "data": {
+            "train_code": "G2028",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-05-30 14:41:00",
+            "carriage": "04",
+            "seat_num": "04F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0014.png",
+        "data": {
+            "train_code": "G2023",
+            "departure_station": "绵阳龙门山",
+            "arrival_station": "西安北",
+            "datetime": "2024-04-07 10:22:00",
+            "carriage": "07",
+            "seat_num": "08D",
+            "berth_type": "无",
+            "price": 174.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0015.png",
+        "data": {
+            "train_code": "K607",
+            "departure_station": "郑州站",
+            "arrival_station": "西安站",
+            "datetime": "2023-07-02 01:46:00",
+            "carriage": "16",
+            "seat_num": "114号",
+            "berth_type": "无",
+            "price": 72.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0016.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "民权北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2023-02-16 11:38:00",
+            "carriage": "02车",
+            "seat_num": "16D号",
+            "berth_type": "无",
+            "price": 64.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0017.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "郑州东站",
+            "arrival_station": "西安北站",
+            "datetime": "2023-02-16 12:29:00",
+            "carriage": "02",
+            "seat_num": "16F",
+            "berth_type": "无",
+            "price": 179.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0018.png",
+        "data": {
+            "train_code": "G1922",
+            "departure_station": "西安北站",
+            "arrival_station": "洛阳龙门站",
+            "datetime": "2024-04-04 18:40:00",
+            "carriage": "13",
+            "seat_num": "08C",
+            "berth_type": "无",
+            "price": 174.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0019.png",
+        "data": {
+            "train_code": "G1884",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-01-26 13:13:00",
+            "carriage": "10",
+            "seat_num": "14B",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0020.png",
+        "data": {
+            "train_code": "G2205",
+            "departure_station": "兰考南站",
+            "arrival_station": "郑州东站",
+            "datetime": "2021-02-28 00:00:00",
+            "carriage": "",
+            "seat_num": "",
+            "berth_type": "无",
+            "price": 50.0,
+            "seat_type": "二等座",
+            "name": "",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0021.png",
+        "data": {
+            "train_code": "G1925",
+            "departure_station": "郑州东站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-10-05 16:50:00",
+            "carriage": "14",
+            "seat_num": "10F",
+            "berth_type": "无",
+            "price": "239.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0022.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2020-08-29 20:54:00",
+            "carriage": "02",
+            "seat_num": "031",
+            "berth_type": "无",
+            "price": 91.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0023.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "郑州西站",
+            "arrival_station": "郑州东站",
+            "datetime": "2024-06-25 19:32:00",
+            "carriage": "",
+            "seat_num": "无座",
+            "berth_type": "无",
+            "price": 14.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0024.png",
+        "data": {
+            "train_code": "G1820",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2024-02-02 11:18:00",
+            "carriage": "04",
+            "seat_num": "03F",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0025.png",
+        "data": {
+            "train_code": "G3290",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-06-26 14:43:00",
+            "carriage": "14车",
+            "seat_num": "07A",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0028.png",
+        "data": {
+            "train_code": "G1948",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "商丘站",
+            "datetime": "2025-08-06 10:15:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 397.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0029.png",
+        "data": {
+            "train_code": "G1974",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-05-26 08:46:00",
+            "carriage": "07",
+            "seat_num": "16A",
+            "berth_type": "无",
+            "price": 546.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0031.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-09 09:56:00",
+            "carriage": "04",
+            "seat_num": "03F",
+            "berth_type": "无",
+            "price": 570.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0034.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-06-07 15:32:00",
+            "carriage": "04",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": "553.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0035.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-04 15:32:00",
+            "carriage": "09",
+            "seat_num": "14F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0036.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2025-06-20 15:32:00",
+            "carriage": "04",
+            "seat_num": "03C",
+            "berth_type": "无",
+            "price": 239.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0037.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "郑州东站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-06-20 17:39:00",
+            "carriage": "10",
+            "seat_num": "14D",
+            "berth_type": "无",
+            "price": 502.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0038.png",
+        "data": {
+            "train_code": "G1888",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-05-24 16:12:00",
+            "carriage": "05",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 577.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0039.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-07-07 08:55:00",
+            "carriage": "13",
+            "seat_num": "02F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0040.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-29 15:32:00",
+            "carriage": "11",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0041.png",
+        "data": {
+            "train_code": "G3180",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-08-18 06:41:00",
+            "carriage": "11",
+            "seat_num": "11A",
+            "berth_type": "无",
+            "price": 743.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0042.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-08-15 15:32:00",
+            "carriage": "11",
+            "seat_num": "07A",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0045.png",
+        "data": {
+            "train_code": "G2023",
+            "departure_station": "洛阳龙门站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-04-07 10:22:00",
+            "carriage": "07",
+            "seat_num": "08B",
+            "berth_type": "无",
+            "price": 174.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0046.png",
+        "data": {
+            "train_code": "G1974",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-05-26 08:46:00",
+            "carriage": "07",
+            "seat_num": "16A",
+            "berth_type": "无",
+            "price": 546.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0047.png",
+        "data": {
+            "train_code": "G1820",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2024-02-02 11:18:00",
+            "carriage": "04",
+            "seat_num": "03F",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0048.png",
+        "data": {
+            "train_code": "G1835",
+            "departure_station": "民权北站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-02-26 14:08:00",
+            "carriage": "03",
+            "seat_num": "03A",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0049.png",
+        "data": {
+            "train_code": "G3297",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-08-09 18:57:00",
+            "carriage": "05",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 317.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0050.png",
+        "data": {
+            "train_code": "G1922",
+            "departure_station": "西安北站",
+            "arrival_station": "洛阳龙门站",
+            "datetime": "2024-04-04 10:40:00",
+            "carriage": "13",
+            "seat_num": "08C",
+            "berth_type": "无",
+            "price": 174.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0051.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "西安站",
+            "arrival_station": "郑州西站",
+            "datetime": "2024-06-25 17:22:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 166.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0052.png",
+        "data": {
+            "train_code": "G2205",
+            "departure_station": "兰考南站",
+            "arrival_station": "郑州东站",
+            "datetime": "",
+            "carriage": "",
+            "seat_num": "",
+            "berth_type": "无",
+            "price": 50.0,
+            "seat_type": "二等座",
+            "name": "",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0053.png",
+        "data": {
+            "train_code": "G1856",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2021-01-16 13:03:00",
+            "carriage": "03",
+            "seat_num": "12C",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0054.png",
+        "data": {
+            "train_code": "G1925",
+            "departure_station": "郑州东站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-10-05 16:50:00",
+            "carriage": "14",
+            "seat_num": "10F",
+            "berth_type": "无",
+            "price": 239.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0055.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2025-06-20 15:32:00",
+            "carriage": "04",
+            "seat_num": "03C",
+            "berth_type": "无",
+            "price": 239.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0056.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "郑州东站",
+            "arrival_station": "西安北站",
+            "datetime": "2023-02-16 12:29:00",
+            "carriage": "02",
+            "seat_num": "16F",
+            "berth_type": "无",
+            "price": 179.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0057.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-07-07 08:55:00",
+            "carriage": "13",
+            "seat_num": "02F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0058.png",
+        "data": {
+            "train_code": "K607",
+            "departure_station": "郑州站",
+            "arrival_station": "西安站",
+            "datetime": "2023-07-02 01:46:00",
+            "carriage": "16",
+            "seat_num": "114",
+            "berth_type": "无",
+            "price": 72.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0059.png",
+        "data": {
+            "train_code": "G1820",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-12-12 11:09:00",
+            "carriage": "02",
+            "seat_num": "05F",
+            "berth_type": "无",
+            "price": "",
+            "seat_type": "二等座",
+            "name": "周帅成",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0060.png",
+        "data": {
+            "train_code": "G1888",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-05-24 16:12:00",
+            "carriage": "05车",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 577.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0061.png",
+        "data": {
+            "train_code": "G1887",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-02 10:40:00",
+            "carriage": "03",
+            "seat_num": "11C",
+            "berth_type": "无",
+            "price": 238.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0062.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-09 09:56:00",
+            "carriage": "04",
+            "seat_num": "03F",
+            "berth_type": "无",
+            "price": "570.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0063.png",
+        "data": {
+            "train_code": "G3178",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-01-18 13:46:00",
+            "carriage": "03车",
+            "seat_num": "10F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0064.png",
+        "data": {
+            "train_code": "G1948",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "商丘站",
+            "datetime": "2025-08-06 10:15:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 397.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0065.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-29 15:32:00",
+            "carriage": "11",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0066.png",
+        "data": {
+            "train_code": "G861",
+            "departure_station": "民权北站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-02-01 18:16:00",
+            "carriage": "03车",
+            "seat_num": "11D",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0067.png",
+        "data": {
+            "train_code": "G3170",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2023-06-28 15:44:00",
+            "carriage": "05",
+            "seat_num": "12F",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0068.png",
+        "data": {
+            "train_code": "K132",
+            "departure_station": "定西站",
+            "arrival_station": "民权站",
+            "datetime": "2023-09-28 15:11:00",
+            "carriage": "15",
+            "seat_num": "105",
+            "berth_type": "无",
+            "price": 152.5,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0069.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "民权北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2023-02-16 11:38:00",
+            "carriage": "02",
+            "seat_num": "16D",
+            "berth_type": "无",
+            "price": 64.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0070.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-04 15:32:00",
+            "carriage": "09",
+            "seat_num": "14F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0071.png",
+        "data": {
+            "train_code": "G1884",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-01-26 13:13:00",
+            "carriage": "10",
+            "seat_num": "14B",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0072.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "郑州西",
+            "arrival_station": "郑州东",
+            "datetime": "2024-06-25 19:32:00",
+            "carriage": "",
+            "seat_num": "无座",
+            "berth_type": "无",
+            "price": 14.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0073.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "郑州东站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-06-20 17:39:00",
+            "carriage": "10",
+            "seat_num": "14D",
+            "berth_type": "无",
+            "price": 502.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0074.png",
+        "data": {
+            "train_code": "G2028",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-05-30 14:41:00",
+            "carriage": "04",
+            "seat_num": "04F",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0075.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2020-08-29 20:54:00",
+            "carriage": "02",
+            "seat_num": "031",
+            "berth_type": "无",
+            "price": 91.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0076.png",
+        "data": {
+            "train_code": "G3180",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-08-18 06:41:00",
+            "carriage": "11",
+            "seat_num": "11A",
+            "berth_type": "无",
+            "price": 743.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0077.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-06-07 15:32:00",
+            "carriage": "04",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 553.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0078.png",
+        "data": {
+            "train_code": "G3290",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-06-26 14:43:00",
+            "carriage": "14",
+            "seat_num": "07A",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0079.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2023-10-05 20:48:00",
+            "carriage": "03",
+            "seat_num": "052",
+            "berth_type": "无",
+            "price": 91.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0080.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-08-15 15:32:00",
+            "carriage": "11",
+            "seat_num": "07A",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0081.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2020-08-29 20:54:00",
+            "carriage": "02",
+            "seat_num": "031",
+            "berth_type": "无",
+            "price": "91.00",
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0082.png",
+        "data": {
+            "train_code": "G1856",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2021-01-16 13:03:00",
+            "carriage": "03",
+            "seat_num": "12C",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0084.png",
+        "data": {
+            "train_code": "G2205",
+            "departure_station": "兰考南站",
+            "arrival_station": "郑州东站",
+            "datetime": "2021-02-28 00:00:00",
+            "carriage": "",
+            "seat_num": "无座",
+            "berth_type": "无",
+            "price": 50.0,
+            "seat_type": "二等座",
+            "name": "",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0086.png",
+        "data": {
+            "train_code": "G1884",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-01-26 13:13:00",
+            "carriage": "10",
+            "seat_num": "14B",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0087.png",
+        "data": {
+            "train_code": "G3290",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2022-06-26 14:43:00",
+            "carriage": "14",
+            "seat_num": "07A",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0088.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "民权北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2023-02-16 11:38:00",
+            "carriage": "02",
+            "seat_num": "16D",
+            "berth_type": "无",
+            "price": 64.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0090.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "郑州东站",
+            "arrival_station": "西安北站",
+            "datetime": "2023-02-16 12:29:00",
+            "carriage": "02",
+            "seat_num": "16F",
+            "berth_type": "无",
+            "price": 179.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0091.png",
+        "data": {
+            "train_code": "G3170",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2023-06-28 15:44:00",
+            "carriage": "05",
+            "seat_num": "12F",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0092.png",
+        "data": {
+            "train_code": "K607",
+            "departure_station": "郑州站",
+            "arrival_station": "西安站",
+            "datetime": "2023-07-02 01:46:00",
+            "carriage": "16",
+            "seat_num": "114",
+            "berth_type": "无",
+            "price": 72.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0093.png",
+        "data": {
+            "train_code": "K132",
+            "departure_station": "定西站",
+            "arrival_station": "民权站",
+            "datetime": "2023-09-28 15:11:00",
+            "carriage": "15",
+            "seat_num": "105",
+            "berth_type": "无",
+            "price": 152.5,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0094.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2023-10-05 20:48:00",
+            "carriage": "03",
+            "seat_num": "052",
+            "berth_type": "无",
+            "price": 91.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0095.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "西安站",
+            "arrival_station": "郑州西站",
+            "datetime": "2024-06-25 17:22:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 166.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0096.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "郑州西站",
+            "arrival_station": "郑州东站",
+            "datetime": "2024-06-25 19:32:00",
+            "carriage": "",
+            "seat_num": "",
+            "berth_type": "无",
+            "price": 14.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0097.png",
+        "data": {
+            "train_code": "G1925",
+            "departure_station": "郑州东站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-10-05 16:50:00",
+            "carriage": "14",
+            "seat_num": "10F",
+            "berth_type": "无",
+            "price": 239.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0099.png",
+        "data": {
+            "train_code": "G861",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-02-01 18:16:00",
+            "carriage": "03",
+            "seat_num": "11D",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0100.png",
+        "data": {
+            "train_code": "G2028",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-05-30 14:41:00",
+            "carriage": "04车",
+            "seat_num": "04F号",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0101.png",
+        "data": {
+            "train_code": "G3178",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-01-18 13:46:00",
+            "carriage": "03",
+            "seat_num": "10F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0102.png",
+        "data": {
+            "train_code": "G1887",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-02 10:40:00",
+            "carriage": "03",
+            "seat_num": "11C",
+            "berth_type": "无",
+            "price": 238.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0103.png",
+        "data": {
+            "train_code": "G3297",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-08-09 18:57:00",
+            "carriage": "05",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 317.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0104.png",
+        "data": {
+            "train_code": "G1888",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-05-24 16:12:00",
+            "carriage": "05",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 577.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0106.png",
+        "data": {
+            "train_code": "G1974",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-05-26 08:46:00",
+            "carriage": "07",
+            "seat_num": "16A",
+            "berth_type": "无",
+            "price": 546.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0107.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-06-07 15:32:00",
+            "carriage": "04",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 553.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0108.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-09 09:56:00",
+            "carriage": "04",
+            "seat_num": "03F",
+            "berth_type": "无",
+            "price": 570.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0109.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2025-06-20 15:32:00",
+            "carriage": "04",
+            "seat_num": "03C",
+            "berth_type": "无",
+            "price": 239.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0110.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "郑州东站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-06-20 17:39:00",
+            "carriage": "10",
+            "seat_num": "14D",
+            "berth_type": "无",
+            "price": 502.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0111.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-04 15:32:00",
+            "carriage": "09车",
+            "seat_num": "14F号",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0112.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-07-07 08:55:00",
+            "carriage": "13",
+            "seat_num": "02F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0113.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-29 15:32:00",
+            "carriage": "11",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0114.png",
+        "data": {
+            "train_code": "G1948",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "商丘站",
+            "datetime": "2025-08-06 10:15:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 397.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0115.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-08-15 15:32:00",
+            "carriage": "11",
+            "seat_num": "07A",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0117.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-08-28 15:32:00",
+            "carriage": "11车",
+            "seat_num": "14F号",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0118.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-09-01 08:55:00",
+            "carriage": "09",
+            "seat_num": "09F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0119.png",
+        "data": {
+            "train_code": "G1573",
+            "departure_station": "西安北站",
+            "arrival_station": "鄠邑站",
+            "datetime": "2025-09-01 14:50:00",
+            "carriage": "02",
+            "seat_num": "10D",
+            "berth_type": "无",
+            "price": 18.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0120.png",
+        "data": {
+            "train_code": "G308",
+            "departure_station": "鄠邑站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-09-12 14:27:00",
+            "carriage": "03",
+            "seat_num": "09A",
+            "berth_type": "无",
+            "price": 29.0,
+            "seat_type": "一等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0121.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-09-12 15:32:00",
+            "carriage": "11",
+            "seat_num": "11F",
+            "berth_type": "无",
+            "price": "725.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0122.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-09-15 08:55:00",
+            "carriage": "12",
+            "seat_num": "06F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0123.png",
+        "data": {
+            "train_code": "G1573",
+            "departure_station": "西安北站",
+            "arrival_station": "鄠邑站",
+            "datetime": "2025-09-15 14:50:00",
+            "carriage": "06",
+            "seat_num": "07D",
+            "berth_type": "无",
+            "price": 18.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0124.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-09-30 15:32:00",
+            "carriage": "08",
+            "seat_num": "04F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0125.png",
+        "data": {
+            "train_code": "G1573",
+            "departure_station": "西安北站",
+            "arrival_station": "鄠邑站",
+            "datetime": "2025-09-15 14:50:00",
+            "carriage": "06",
+            "seat_num": "07D",
+            "berth_type": "无",
+            "price": 18.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0126.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-09-30 15:32:00",
+            "carriage": "08",
+            "seat_num": "04F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0127.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-09-15 08:55:00",
+            "carriage": "12",
+            "seat_num": "06F",
+            "berth_type": "无",
+            "price": "725.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0128.png",
+        "data": {
+            "train_code": "G308",
+            "departure_station": "鄠邑站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-09-12 14:27:00",
+            "carriage": "03",
+            "seat_num": "09A",
+            "berth_type": "无",
+            "price": 29.0,
+            "seat_type": "一等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0129.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-09-12 15:32:00",
+            "carriage": "11",
+            "seat_num": "11F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0130.png",
+        "data": {
+            "train_code": "G1573",
+            "departure_station": "西安北站",
+            "arrival_station": "鄠邑站",
+            "datetime": "2025-09-01 14:50:00",
+            "carriage": "02",
+            "seat_num": "10D",
+            "berth_type": "无",
+            "price": 18.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0131.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-09-01 08:55:00",
+            "carriage": "09",
+            "seat_num": "09F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0132.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-08-28 15:32:00",
+            "carriage": "11",
+            "seat_num": "14F",
+            "berth_type": "无",
+            "price": 725.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0133.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-08-15 15:32:00",
+            "carriage": "11",
+            "seat_num": "07A",
+            "berth_type": "无",
+            "price": "725.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0134.png",
+        "data": {
+            "train_code": "G1948",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "商丘站",
+            "datetime": "2025-08-06 10:15:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": "397.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0135.png",
+        "data": {
+            "train_code": "G3180",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-08-18 06:41:00",
+            "carriage": "11",
+            "seat_num": "11A",
+            "berth_type": "无",
+            "price": 743.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0136.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-29 15:32:00",
+            "carriage": "11",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": "725.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0137.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-07-04 15:32:00",
+            "carriage": "09",
+            "seat_num": "14F",
+            "berth_type": "无",
+            "price": "725.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0138.png",
+        "data": {
+            "train_code": "G360",
+            "departure_station": "上海虹桥站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-07-07 08:55:00",
+            "carriage": "13",
+            "seat_num": "02F",
+            "berth_type": "无",
+            "price": "725.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0139.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "郑州东站",
+            "arrival_station": "上海虹桥站",
+            "datetime": "2025-06-20 17:39:00",
+            "carriage": "10",
+            "seat_num": "14D",
+            "berth_type": "无",
+            "price": 502.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0140.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2025-06-20 15:32:00",
+            "carriage": "04",
+            "seat_num": "03C",
+            "berth_type": "无",
+            "price": 239.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0141.png",
+        "data": {
+            "train_code": "G36Q",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-09 09:56:00",
+            "carriage": "04",
+            "seat_num": "03F",
+            "berth_type": "无",
+            "price": 570.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0142.png",
+        "data": {
+            "train_code": "G1934",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-06-07 15:32:00",
+            "carriage": "04",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": 553.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0143.png",
+        "data": {
+            "train_code": "G1974",
+            "departure_station": "南京南站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-05-26 08:46:00",
+            "carriage": "07",
+            "seat_num": "16A",
+            "berth_type": "无",
+            "price": 546.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0144.png",
+        "data": {
+            "train_code": "G1888",
+            "departure_station": "西安北站",
+            "arrival_station": "南京南站",
+            "datetime": "2025-05-24 16:12:00",
+            "carriage": "05",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": 577.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "优惠票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0145.png",
+        "data": {
+            "train_code": "G1887",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-06-02 10:40:00",
+            "carriage": "03",
+            "seat_num": "11C",
+            "berth_type": "无",
+            "price": 238.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0146.png",
+        "data": {
+            "train_code": "G3297",
+            "departure_station": "商丘站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-08-09 18:57:00",
+            "carriage": "05",
+            "seat_num": "12A",
+            "berth_type": "无",
+            "price": "317.50",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0147.png",
+        "data": {
+            "train_code": "G2028",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-05-30 14:41:00",
+            "carriage": "04",
+            "seat_num": "04F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0148.png",
+        "data": {
+            "train_code": "G3178",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2025-01-18 13:46:00",
+            "carriage": "03",
+            "seat_num": "10F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0149.png",
+        "data": {
+            "train_code": "G861",
+            "departure_station": "民权北站",
+            "arrival_station": "西安北站",
+            "datetime": "2025-02-01 18:16:00",
+            "carriage": "03",
+            "seat_num": "11D",
+            "berth_type": "无",
+            "price": "223.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0150.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "郑州西站",
+            "arrival_station": "郑州东站",
+            "datetime": "2024-06-25 19:32:00",
+            "carriage": "",
+            "seat_num": "",
+            "berth_type": "无",
+            "price": 14.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0151.png",
+        "data": {
+            "train_code": "G666",
+            "departure_station": "西安站",
+            "arrival_station": "郑州西站",
+            "datetime": "2024-06-25 17:22:00",
+            "carriage": "15",
+            "seat_num": "15F",
+            "berth_type": "无",
+            "price": "166.00",
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0152.png",
+        "data": {
+            "train_code": "G2023",
+            "departure_station": "洛阳龙门站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-04-07 10:22:00",
+            "carriage": "07",
+            "seat_num": "08D",
+            "berth_type": "无",
+            "price": 174.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0153.png",
+        "data": {
+            "train_code": "G1820",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2024-02-02 11:18:00",
+            "carriage": "04车",
+            "seat_num": "03号",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0154.png",
+        "data": {
+            "train_code": "G1922",
+            "departure_station": "西安北站",
+            "arrival_station": "洛阳龙门站",
+            "datetime": "2024-04-04 10:40:00",
+            "carriage": "13",
+            "seat_num": "08C",
+            "berth_type": "无",
+            "price": 174.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0155.png",
+        "data": {
+            "train_code": "G1835",
+            "departure_station": "民权北站",
+            "arrival_station": "西安北站",
+            "datetime": "2024-02-26 14:08:00",
+            "carriage": "03",
+            "seat_num": "03A",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0156.png",
+        "data": {
+            "train_code": "K132",
+            "departure_station": "定西站",
+            "arrival_station": "民权站",
+            "datetime": "2023-09-28 15:11:00",
+            "carriage": "15",
+            "seat_num": "105",
+            "berth_type": "无",
+            "price": 152.5,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0157.png",
+        "data": {
+            "train_code": "K607",
+            "departure_station": "郑州站",
+            "arrival_station": "西安站",
+            "datetime": "2023-07-02 01:46:00",
+            "carriage": "16",
+            "seat_num": "114",
+            "berth_type": "无",
+            "price": 72.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0158.png",
+        "data": {
+            "train_code": "K361",
+            "departure_station": "民权站",
+            "arrival_station": "西安站",
+            "datetime": "2023-10-05 20:48:00",
+            "carriage": "03",
+            "seat_num": "052",
+            "berth_type": "无",
+            "price": 91.0,
+            "seat_type": "硬座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0159.png",
+        "data": {
+            "train_code": "G3170",
+            "departure_station": "西安北站",
+            "arrival_station": "民权北站",
+            "datetime": "2023-06-28 15:44:00",
+            "carriage": "05",
+            "seat_num": "12F",
+            "berth_type": "无",
+            "price": 223.0,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0160.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "郑州东站",
+            "arrival_station": "西安北站",
+            "datetime": "2023-02-16 12:29:00",
+            "carriage": "02",
+            "seat_num": "16F",
+            "berth_type": "无",
+            "price": 179.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "学生票"
+        }
+    },
+    {
+        "path": "./ticket_single/ticket_0161.png",
+        "data": {
+            "train_code": "G3177",
+            "departure_station": "民权北站",
+            "arrival_station": "郑州东站",
+            "datetime": "2023-02-16 11:38:00",
+            "carriage": "02",
+            "seat_num": "16D",
+            "berth_type": "无",
+            "price": 64.5,
+            "seat_type": "二等座",
+            "name": "周帅康",
+            "discount_type": "全价票"
+        }
+    }
+]
