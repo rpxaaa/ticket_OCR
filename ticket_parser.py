@@ -49,7 +49,7 @@ def parse_ticket_info(ocr_texts):
     train_index = -1
 
     for idx, txt in enumerate(ocr_texts):
-        # 提取“XX站”
+        # 提取"XX站"
         for match in re.finditer(r'([\u4e00-\u9fa5]{2,6})站', txt):
             name = match.group(1)
             interference = {"上铺", "中铺", "下铺", "限乘", "当日", "当次", "车", "号", "开", "元", "报销", "使用"}
@@ -65,20 +65,60 @@ def parse_ticket_info(ocr_texts):
 
     ticket_info["train_code"] = train_code
 
-    if train_index >= 0 and all_stations_global:
-        dep_cands = [s for s in all_stations_global if s[1] < train_index]
-        arr_cands = [s for s in all_stations_global if s[1] > train_index]
-        if dep_cands:
-            ticket_info["departure_station"] = dep_cands[-1][0]
-        if arr_cands:
-            ticket_info["arrival_station"] = arr_cands[0][0]
-    elif all_stations_global:
-        # 无车次：按顺序赋值
-        names = [s[0] for s in all_stations_global]
-        if len(names) >= 1:
-            ticket_info["departure_station"] = names[0]
-        if len(names) >= 2:
-            ticket_info["arrival_station"] = names[1]
+    # 修复车站解析逻辑 - 当车次出现在所有车站之后时的处理
+    if all_stations_global:
+        # 首先去重，但保留顺序
+        seen_stations = set()
+        unique_stations_with_index = []
+        for station in all_stations_global:
+            if station[0] not in seen_stations:
+                seen_stations.add(station[0])
+                unique_stations_with_index.append(station)
+
+        # 提取去重后的车站名称列表
+        unique_station_names = [s[0] for s in unique_stations_with_index]
+
+        if train_index >= 0:
+            # 按文本块索引对车站排序
+            unique_stations_with_index.sort(key=lambda x: x[1])
+
+            # 找出车次前和车次后的车站
+            stations_before_train = [s for s in unique_stations_with_index if s[1] < train_index]
+            stations_after_train = [s for s in unique_stations_with_index if s[1] > train_index]
+
+            if stations_before_train and stations_after_train:
+                # 标准情况：车次在中间
+                ticket_info["departure_station"] = stations_before_train[-1][0]
+                ticket_info["arrival_station"] = stations_after_train[0][0]
+            elif stations_before_train and not stations_after_train:
+                # 车次在所有车站之后 - 这是关键修复！
+                if len(stations_before_train) >= 2:
+                    # 按视觉顺序：第一个是出发站，第二个是到达站
+                    ticket_info["departure_station"] = stations_before_train[0][0]
+                    ticket_info["arrival_station"] = stations_before_train[1][0]
+                elif len(stations_before_train) == 1:
+                    ticket_info["departure_station"] = stations_before_train[0][0]
+            elif not stations_before_train and stations_after_train:
+                # 车次在所有车站之前
+                if len(stations_after_train) >= 2:
+                    ticket_info["departure_station"] = stations_after_train[0][0]
+                    ticket_info["arrival_station"] = stations_after_train[1][0]
+                elif len(stations_after_train) == 1:
+                    ticket_info["arrival_station"] = stations_after_train[0][0]
+            else:
+                # 车次和车站在同一文本块
+                if len(unique_station_names) >= 2:
+                    ticket_info["departure_station"] = unique_station_names[0]
+                    ticket_info["arrival_station"] = unique_station_names[1]
+                elif len(unique_station_names) == 1:
+                    ticket_info["departure_station"] = unique_station_names[0]
+        else:
+            # 无车次信息：按顺序取前两个不同的车站
+            if len(unique_station_names) >= 2:
+                ticket_info["departure_station"] = unique_station_names[0]
+                ticket_info["arrival_station"] = unique_station_names[1]
+            elif len(unique_station_names) == 1:
+                ticket_info["departure_station"] = unique_station_names[0]
 
     # 遍历每个独立文本块，逐个匹配对应字段
     for txt in ocr_texts:
